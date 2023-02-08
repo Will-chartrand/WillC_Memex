@@ -14,12 +14,13 @@ projects:[[]]
 
 
 F. C. The Unabomber Manifesto : Industrial Society and Its Future. Berkeley, CA : Jolly Roger Press,[publisher not identified], 1995.
+http://editions-hache.com/essais/pdf/kaczynski2.pdf
 
 ---
 
 ### Summary & Key Take Aways
 
-The increase rise in technological development has disconnected us from the freedoms we once had. The loss in autonomy among the masses is as much a function of the system as it is the means to it's goal - advancement. 
+The rise in rapid technological development has disconnected us from the freedoms we once had. The loss in autonomy among the masses is as much a function of the system as it is the means to it's goal - advancement. 
 
 
 --- 

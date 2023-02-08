@@ -3,25 +3,21 @@
 
 ## Sources[¶](https://shawngraham.github.io/hist1900c-demo-memex/#sources "Permanent link")
 
--   [@bushvannevarWeMayThink1945](@bushvannevarWeMayThink1945.md)
+-   [[@bush132407932Pdf1945]]
+- [[@kaczynskiIndustrialSocietyIts1995]]
 
 
 ## Thoughts[¶](https://shawngraham.github.io/hist1900c-demo-memex/#thoughts "Permanent link")
 
 ### 'Technology'[¶](https://shawngraham.github.io/hist1900c-demo-memex/#gender "Permanent link")
 
--   [what impact does this kind of gendered writing have on imagined futures](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/what%20impact%20does%20this%20kind%20of%20gendered%20writing%20have%20on%20imagined%20futures/)
--   [who is the audience](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/who%20is%20the%20audience/)
--   [Do instagram photos re bonetrade demonstrate gendered background spaces](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/Do%20instagram%20photos%20re%20bonetrade%20demonstrate%20gendered%20background%20spaces/)
+- x
+- x
+- x
 
-### 'Ethics'[¶](https://shawngraham.github.io/hist1900c-demo-memex/#ethics "Permanent link")
+### 'Psychology'
+- [[What is oversocialization]](https://sci-hub.ru/10.2307/2089854)
 
--   [machine vision ethics](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/machine%20vision%20ethics/)
-
-### 'Process of Doing Research'[¶](https://shawngraham.github.io/hist1900c-demo-memex/#process-of-doing-research "Permanent link")
-
--   [growing mountain of research](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/growing%20mountain%20of%20research/)
--   [more research fewer insights](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/more%20research%20fewer%20insights/)
 
 ### ToDo[¶](https://shawngraham.github.io/hist1900c-demo-memex/#todo "Permanent link")
 

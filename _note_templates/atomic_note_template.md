@@ -1,8 +1,6 @@
-
-
 ---
-Title: As We May Think
-date: 2023-02-07
+Title: PUT THE TITLE OF NOTE HERE
+date: {{date}}
 type: literature
 project:
 ---
