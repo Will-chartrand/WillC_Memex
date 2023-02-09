@@ -1,5 +1,5 @@
 ---
-Title: What is the force taht drives technology to advance?
+Title: What is the force that drives technology to advance?
 date: 2023-02-08
 type: permanent
 project:
