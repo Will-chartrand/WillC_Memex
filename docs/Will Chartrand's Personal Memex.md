@@ -5,7 +5,7 @@
 
 -   [[@bush132407932Pdf1945]]
 - [[@kaczynskiIndustrialSocietyIts1995]]
-- [[docs/Sources/@wrongOversocializedConceptionMan1961]]
+- [[@wrongOversocializedConceptionMan1961]]
 
 
 ## Thoughts[¶](https://shawngraham.github.io/hist1900c-demo-memex/#thoughts "Permanent link")
