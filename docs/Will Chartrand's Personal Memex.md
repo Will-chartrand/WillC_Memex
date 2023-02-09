@@ -5,6 +5,7 @@
 
 -   [[@bush132407932Pdf1945]]
 - [[@kaczynskiIndustrialSocietyIts1995]]
+- [[docs/Sources/@wrongOversocializedConceptionMan1961]]
 
 
 ## Thoughts[¶](https://shawngraham.github.io/hist1900c-demo-memex/#thoughts "Permanent link")
@@ -17,6 +18,7 @@
 
 ### 'Psychology'
 - [[What is oversocialization]](https://sci-hub.ru/10.2307/2089854)
+- 
 
 
 ### ToDo[¶](https://shawngraham.github.io/hist1900c-demo-memex/#todo "Permanent link")

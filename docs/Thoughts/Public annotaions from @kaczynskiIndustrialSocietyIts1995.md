@@ -36,7 +36,7 @@ alias: ["Industrial Society and Its Future"]
 > [!quote|#ffd400] Highlight
 > It is true that one can ask serious questions about the foundations of scientific knowledge and about how, if at all, the concept of objective reality can be defined
 >
->> What defines objective reality?
+>> What defines [[Objective Reality]]?
 >
 > [Page 2](zotero://open-pdf/library/items/VTUWKHPM?page=2) [[2023-02-09#10:51 am]]
 

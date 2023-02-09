@@ -4,7 +4,7 @@ alias: ["The Oversocialized Conception of Man in Modern Sociology"]
 ---
 
 > [!info]
-> - **Cite Key:** [[@wrongOversocializedConceptionMan1961]]
+> - **Cite Key:** [[1-inbox/@wrongOversocializedConceptionMan1961]]
 > - **Link:** [Full Text](file://C:\Users\willc\Zotero\storage\PTRTQGJP\Wrong%20-%201961%20-%20The%20Oversocialized%20Conception%20of%20Man%20in%20Modern%20Soc.pdf)
 
 ## Annotations
