@@ -26,4 +26,6 @@ The rise in rapid technological development has disconnected us from the freedom
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+
+[[Oversocialization]]
+[[What is oversocialization]]
