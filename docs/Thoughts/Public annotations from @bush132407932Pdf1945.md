@@ -21,12 +21,12 @@ projects::[[]]
 #### Relevant / important
 
 > [!quote|#a28ae5] Highlight
-> his has not been a scientist’s war; it has been a war in which all have had a part.
+> This has not been a scientist’s war; it has been a war in which all have had a part.
 >
 > [Page 1](zotero://open-pdf/library/items/YEA2QZ3P?page=1) [[2023-02-07#6:35 pm]]
 
 > [!quote|#a28ae5] Highlight
-> O f what lasting benefit has been man’s use o f science an d o f the new instruments which his research brought into existence?
+> Of what lasting benefit has been man’s use of science and of the new instruments which his research brought into existence?
 >
 > [Page 1](zotero://open-pdf/library/items/YEA2QZ3P?page=1) [[2023-02-07#6:36 pm]]
 
@@ -38,7 +38,7 @@ projects::[[]]
 #### Disagree
 
 > [!quote|#ff6666] Highlight
-> First, they have increased his control o f his material environment
+> First, they have increased his control of his material environment
 
 [[Does technological advancement really lead to greater control of our environment]]
 >

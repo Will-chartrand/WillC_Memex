@@ -19,7 +19,7 @@ alias: ["The Oversocialized Conception of Man in Modern Sociology"]
 > [Page 2](zotero://open-pdf/library/items/PTRTQGJP?page=2) [[2023-02-08#1:07 pm]]
 
 > [!quote|#2ea8e5] Highlight
-> g the goal of sociological theory as the creation of a formal body of knowledge satisfying the logical criteria of scientific theory set up by philosophers and methodologists of natural science
+> The goal of sociological theory as the creation of a formal body of knowledge satisfying the logical criteria of scientific theory set up by philosophers and methodologists of natural science
 >
 > [Page 2](zotero://open-pdf/library/items/PTRTQGJP?page=2) [[2023-02-09#10:57 am]]
 
