@@ -6,6 +6,7 @@
 -   [[@bush132407932Pdf1945]]
 - [[@kaczynskiIndustrialSocietyIts1995]]
 - [[@wrongOversocializedConceptionMan1961]]
+- [[@youngRelationshipDepressionInternet1998a]]
 
 
 ## Thoughts[¶](https://shawngraham.github.io/hist1900c-demo-memex/#thoughts "Permanent link")

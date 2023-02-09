@@ -13,7 +13,7 @@ projects:[[]]
 \autocite{@kaczynskiIndustrialSocietyIts1995}
 
 
-F. C. The Unabomber Manifesto : Industrial Society and Its Future. Berkeley, CA : Jolly Roger Press,[publisher not identified], 1995.
+F. C. The Unabomber Manifesto : Industrial Society and Its Future. Berkeley, CA : Jolly Roger Press, 1995.
 http://editions-hache.com/essais/pdf/kaczynski2.pdf
 
 ---
@@ -22,10 +22,9 @@ http://editions-hache.com/essais/pdf/kaczynski2.pdf
 
 The rise in rapid technological development has disconnected us from the freedoms we once had. The loss in autonomy among the masses is as much a function of the system as it is the means to it's goal - advancement. 
 
-
 --- 
 
 ### Links
 
-[[docs/Thoughts/Oversocialization]]
 [[What is oversocialization]]
+[[Hedonic Treadmill]]
