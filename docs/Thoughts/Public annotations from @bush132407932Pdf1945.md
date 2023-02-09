@@ -40,7 +40,7 @@ projects::[[]]
 > [!quote|#ff6666] Highlight
 > First, they have increased his control o f his material environment
 
-[[Does technological advancement really lead to greater control of our enviroment]]
+[[Does technological advancement really lead to greater control of our environment]]
 >
 > [Page 1](zotero://open-pdf/library/items/YEA2QZ3P?page=1) [[2023-02-07#6:36 pm]]
 

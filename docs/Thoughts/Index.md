@@ -4,7 +4,7 @@
 
 # Ideas
 
-- [[Does technological advancement really lead to greater control of our enviroment]]
+- [[Does technological advancement really lead to greater control of our environment]]
 - [[What is the force that drives technology to advance]]
 - 
 
