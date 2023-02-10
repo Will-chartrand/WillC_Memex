@@ -13,7 +13,7 @@
 
 ### 'Technology'[¶](https://shawngraham.github.io/hist1900c-demo-memex/#gender "Permanent link")
 
-- x
+- 
 - x
 - 
 
