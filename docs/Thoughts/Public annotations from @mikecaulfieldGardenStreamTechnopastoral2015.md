@@ -31,7 +31,7 @@ alias: ["The Garden and the Stream"]
 > [!quote|#ffd400] Highlight
 > In other words, the Stream replaces topology with serialization
 >
->> What are the differences between a topology and a serialization?
+>> [[What are the differences between a topology and a serialization]]?
 >
 > [Page 10](zotero://open-pdf/library/items/4DIUZ7GC?page=10) [[2023-02-10#3:58 pm]]
 
