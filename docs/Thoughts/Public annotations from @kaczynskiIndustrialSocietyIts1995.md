@@ -23,6 +23,7 @@ alias: ["Industrial Society and Its Future"]
 
 > [!quote|#5fb236] Highlight
 > Thus, in order to avoid serious psychological problems, a human being needs goals whose attainment requires effort, and he must have a reasonable rate of success in attaining his goals.
+>> When one's goals are unattainable, the become discouraged. When one's goals are too easy to achieve, they become bored.
 >
 > [Page 4](zotero://open-pdf/library/items/VTUWKHPM?page=4) [[2023-02-09#1:25 pm]]
 
@@ -47,6 +48,8 @@ alias: ["Industrial Society and Its Future"]
 
 > [!quote|#2ea8e5] Highlight
 > By “feelings of inferiority” we mean not only inferiority feelings in the strict sense but a whole spectrum of related traits; low self-esteem, feelings of powerlessness, depressive tendencies, defeatism, guilt, self-hatred,
+>
+>>Definition of feelings of inferiority
 >
 > [Page 1](zotero://open-pdf/library/items/VTUWKHPM?page=1) [[2023-02-08#10:51 am]]
 

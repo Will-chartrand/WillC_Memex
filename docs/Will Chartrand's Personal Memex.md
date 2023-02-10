@@ -13,23 +13,21 @@
 
 ### 'Technology'[¶](https://shawngraham.github.io/hist1900c-demo-memex/#gender "Permanent link")
 
-- 
-- x
-- 
+- [[Does technological advancement really lead to greater control of our environment]]
+- [[Internet Communities]]
+- [[What is the force that drives technology to advance]]
 
 ### 'Psychology'
 - [[What is oversocialization]](https://sci-hub.ru/10.2307/2089854)
+- [[Hedonic Treadmill]]
+- [[Objective Reality]]
+
+### Society
+- [[The Stream]]
+- [[The Garden]]
 - 
 
 
 ### ToDo[¶](https://shawngraham.github.io/hist1900c-demo-memex/#todo "Permanent link")
 
-(I tagged certain notes with #todo then did a search for that tag; I copied the results as markdown links and pasted below.)
 
--   [@grahamFleshingOutBones2018](https://shawngraham.github.io/hist1900c-demo-memex/sources/%40grahamFleshingOutBones2018/)
--   [@hamilakisArchaeologyAssemblage2017](https://shawngraham.github.io/hist1900c-demo-memex/sources/%40hamilakisArchaeologyAssemblage2017/)
--   [extracted notes from @rubergLivestreamingBedroomPerforming2021-zotero](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/extracted%20notes%20from%20%40rubergLivestreamingBedroomPerforming2021-zotero/)
--   [extracted public annotations from @bushvannevarWeMayThink1945](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/extracted%20public%20annotations%20from%20%40bushvannevarWeMayThink1945/)
--   [more research fewer insights](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/more%20research%20fewer%20insights/)
-
-_Thing I found out_ - if I put a ? in a note name (and probably any other special character) github actions breaks the link to the note.

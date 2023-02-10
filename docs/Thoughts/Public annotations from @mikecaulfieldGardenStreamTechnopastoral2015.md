@@ -17,14 +17,14 @@ alias: ["The Garden and the Stream"]
 > [!quote|#ffd400] Highlight
 > alled federated wiki
 >
->> What is "federated wiki"?
+>> What is "[[Federated Wiki]]"?
 >
 > [Page 2](zotero://open-pdf/library/items/4DIUZ7GC?page=2) [[2023-02-10#3:05 pm]]
 
 > [!quote|#ffd400] Highlight
 > It’s not that you are passive in the Stream. You can be active.
 >
->> How does one become more active in the Stream?
+>> [[How does one become more active in the Stream]]?
 >
 > [Page 10](zotero://open-pdf/library/items/4DIUZ7GC?page=10) [[2023-02-10#3:17 pm]]
 
