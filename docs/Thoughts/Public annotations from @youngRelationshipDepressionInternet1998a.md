@@ -17,13 +17,12 @@ alias: ["The Relationship Between Depression and Internet Addiction"]
 > [!quote|#a28ae5] Highlight
 > moderate to severe rates of depression coexist with pathological Internet use.
 >> This was characteristic of an individual who used the internet for only 8 hours a **week**. As of 2022, the average person spends around [6 and a half hours per DAY](https://www.oberlo.ca/statistics/how-much-time-does-the-average-person-spend-on-the-internet)on the web. It's not difficult to see that this much internet usage probably isn't healthy for us.
-
-> [Page 1](zotero://open-pdf/library/items/8CVM5WRL?page=1) [[2023-02-09#4:53 pm]]
+[Page 1](zotero://open-pdf/library/items/8CVM5WRL?page=1) [[2023-02-09#4:53 pm]]
 
 > [!quote|#a28ae5] Highlight
 > prior research indicated that the interactive capabilities available on the Internet were found to be most addictive.
 >
->> (i.e. social media today. It's interesting to see how the trends we observe in how the internet is structured today could 
+>> (i.e. social media today. It's interesting to see how the trends we observe in how the internet is structured today could have been inferred from the trends during the beginning of the internet.
 >
 > [Page 3](zotero://open-pdf/library/items/8CVM5WRL?page=3) [[2023-02-09#5:02 pm]]
 
