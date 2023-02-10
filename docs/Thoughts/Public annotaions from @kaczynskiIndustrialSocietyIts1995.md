@@ -1,3 +1,6 @@
+
+tags: #society #tech
+ 
 ---
 cssclass: zotero-note
 alias: ["Industrial Society and Its Future"]

@@ -1,3 +1,5 @@
+Tags: #psychology #society 
+
 ---
 cssclass: zotero-note
 alias: ["The Oversocialized Conception of Man in Modern Sociology"]

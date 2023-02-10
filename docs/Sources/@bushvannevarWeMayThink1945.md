@@ -6,7 +6,7 @@ date: 2023-02-07
 type: literature
 project:
 ---
-tags:: 
+tags:: #source #tech
 projects::[[]]
 
 

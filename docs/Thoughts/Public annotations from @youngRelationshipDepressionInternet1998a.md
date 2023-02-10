@@ -1,3 +1,5 @@
+Tech: #psychology #tech
+
 ---
 cssclass: zotero-note
 alias: ["The Relationship Between Depression and Internet Addiction"]

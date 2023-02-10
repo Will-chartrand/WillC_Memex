@@ -5,7 +5,7 @@ type: reference
 project:
 ---
 
-tags::
+tags:: #source #society #tech
 projects:[[]]
 
 ### Reference 
