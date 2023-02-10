@@ -39,10 +39,9 @@ projects::[[]]
 
 > [!quote|#ff6666] Highlight
 > First, they have increased his control of his material environment
-
-[[Does technological advancement really lead to greater control of our environment]]
+>>[[Does technological advancement really lead to greater control of our environment]]
 >
-> [Page 1](zotero://open-pdf/library/items/YEA2QZ3P?page=1) [[2023-02-07#6:36 pm]]
+ [Page 1](zotero://open-pdf/library/items/YEA2QZ3P?page=1) [[2023-02-07#6:36 pm]]
 
 #### Agree
 
@@ -64,7 +63,7 @@ projects::[[]]
 > [Page 6](zotero://open-pdf/library/items/YEA2QZ3P?page=6) [[2023-02-07#8:01 pm]]
 
 > [!quote|#2ea8e5] Highlight
-> mechanized so that it may be consulted with exceed­ ing speed and flexibility.
+> mechanized so that it may be consulted with exceed­ing speed and flexibility.
 >
 > [Page 7](zotero://open-pdf/library/items/YEA2QZ3P?page=7) [[2023-02-07#8:02 pm]]
 
@@ -76,7 +75,7 @@ projects::[[]]
 ---
 ### Citational Information
 
-Link to the originating literature note.
+[[@bushvannevarWeMayThink1945]]
 
 ---
 

@@ -18,6 +18,8 @@ projects::[[]]
 ---
 ### Citational Information
 
+Bush, Vannevar (1945). "[As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think "w:As We May Think")," _Atlantic Monthly_ 176 (July 1945)
+
 Link to the originating literature note.
 
 ---
