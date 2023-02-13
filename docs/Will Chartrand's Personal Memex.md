@@ -1,7 +1,7 @@
 
-## Map of Content[¶](https://shawngraham.github.io/hist1900c-demo-memex/#map-of-content "Permanent link")
+## Map of Content
 
-## Sources[¶](https://shawngraham.github.io/hist1900c-demo-memex/#sources "Permanent link")
+## Sources
 
 -  [[@bushvannevarWeMayThink1945]]
 - [[@kaczynskiIndustrialSocietyIts1995]]

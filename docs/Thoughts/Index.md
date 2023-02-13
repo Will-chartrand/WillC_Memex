@@ -1,8 +1,14 @@
-### Annotations
+## Annotations
 
-## Thoughts[¶](https://shawngraham.github.io/hist1900c-demo-memex/#thoughts "Permanent link")
+- [[Public annotations from @bush132407932Pdf1945]]
+- [[Public annotations from @mikecaulfieldGardenStreamTechnopastoral2015]]
+- [[Public annotations from @kaczynskiIndustrialSocietyIts1995]]
+- [[Public annotations from @wrongOversocializedConceptionMan1961]]
+- [[Public annotations from @youngRelationshipDepressionInternet1998a]]
 
-### 'Technology'[¶](https://shawngraham.github.io/hist1900c-demo-memex/#gender "Permanent link")
+## Thoughts
+
+### 'Technology
 
 - [[Does technological advancement really lead to greater control of our environment]]
 - [[Internet Communities]]

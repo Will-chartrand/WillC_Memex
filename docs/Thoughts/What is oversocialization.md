@@ -23,5 +23,5 @@ _[over-](https://en.wiktionary.org/wiki/over-#English "over-")_ +‎ _[socialize
 Links:
 
 [[1-inbox/@wrongOversocializedConceptionMan1961|The Oversocialized Conception of Man in Modern Sociology]]
-[[Public annotations from @wrongOversocializedConceptionMan1961 1]]
+[[Public annotations from @wrongOversocializedConceptionMan1961]]
 
