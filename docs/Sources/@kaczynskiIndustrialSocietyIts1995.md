@@ -10,9 +10,6 @@ projects:[[]]
 
 ### Reference 
 
-\autocite{@kaczynskiIndustrialSocietyIts1995}
-
-
 F. C. The Unabomber Manifesto : Industrial Society and Its Future. Berkeley, CA : Jolly Roger Press, 1995.
 http://editions-hache.com/essais/pdf/kaczynski2.pdf
 

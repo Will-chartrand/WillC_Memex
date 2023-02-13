@@ -23,4 +23,4 @@ Sociological theory originates in the asking of general questions about man and 
 ### Links
 
 - [[What is oversocialization]]
-- 
+- [[docs/Sources/@kaczynskiIndustrialSocietyIts1995]]

@@ -29,3 +29,5 @@ Prior research has utilized the Zung Depression Inventory (ZDI) and found that m
 ### Links
 
 - [[Internet Communities]]
+- [[docs/Sources/@kaczynskiIndustrialSocietyIts1995]]
+- [[Public annotations from @kaczynskiIndustrialSocietyIts1995]]

@@ -22,4 +22,8 @@ There aren't enough people to build [[The Garden]], which is necessary to facili
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+
+- [[The Stream]]
+- [[The Garden]]
+- [[Public annotations from @mikecaulfieldGardenStreamTechnopastoral2015|The Garden and the Stream]]
+- [[How does one become more active in the Stream]]
