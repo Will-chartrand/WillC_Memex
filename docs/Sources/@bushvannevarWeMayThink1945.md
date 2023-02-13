@@ -18,7 +18,9 @@ Bush, Vannevar (1945). "[As We May Think](https://en.wikipedia.org/wiki/As_We_Ma
 ---
 ### Summary & Key Take Aways
 
-Predictions of future technology, as well as the introduction of the concept of the memex. Bush envisions a world where information is interconnected and easily accessible. Thought
+Predictions of future technology, as well as the introduction of the concept of the memex. Bush envisions a world where information is interconnected and easily accessible - thoughts are linked together not by distance but by similarity and citation. 
+
+He was pretty bang on with the camera bit
 
 ---
 
