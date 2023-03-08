@@ -11,6 +11,11 @@
 - [[@youngRelationshipDepressionInternet1998a]]
 - [[@mikecaulfieldGardenStreamTechnopastoral2015]]
 
+Part two:
+- [[@coopersmithFaxedRiseFall2016]]
+- [[@macdougallPeopleNetworkPolitical2014]]
+- [[@spikerDevelopmentRadio]]
+- [[@standageVictorianInternetRemarkable1999]]
 
 ## Thoughts
 
