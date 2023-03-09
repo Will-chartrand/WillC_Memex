@@ -19,28 +19,28 @@ tags: #PartTwo
 > [!quote|#ffd400] Highlight
 > facsimile
 >
->> What is the definition of facsimile?
+>> What is the definition of [[Facsimile]]?
 >
 > [Page 1](zotero://open-pdf/library/items/IAEWGZ6U?page=1) [[2023-03-05#11:31 am]]
 
 > [!quote|#ffd400] Highlight
 > Faxing even became a visible component in Japanese techno-imperialism in China
 >
->> What the hell is techno-imperialism?? Sounds like a cool dance
+>> What the hell is [[techno-imperialism]]?? Sounds like a cool dance
 >
 > [Page 3](zotero://open-pdf/library/items/IAEWGZ6U?page=3) [[2023-03-05#11:47 am]]
 
 > [!quote|#ffd400] Highlight
 > Similarly, xerography inventor Chester Carlson, whose second patent, granted in 1942, described a fax machine, succeeded only after finally finding corporate sponsorship.
 >
->> What is xerography?
+>> What is [[xerography]]?
 >
 > [Page 3](zotero://open-pdf/library/items/IAEWGZ6U?page=3) [[2023-03-05#11:48 am]]
 
 > [!quote|#ffd400] Highlight
 > Every area of facsimile advanced technically, responding to developments in supporting technologies like radio and to specific challenges in scanning, transmission, synchronization, recording, and even data reduction
 >
->> What were the advances in radio technologies in this time period?
+>> [[What were the advances in radio technologies in this time period?|Radio Technology Advances]]
 >
 > [Page 5](zotero://open-pdf/library/items/IAEWGZ6U?page=5) [[2023-03-05#12:41 pm]]
 

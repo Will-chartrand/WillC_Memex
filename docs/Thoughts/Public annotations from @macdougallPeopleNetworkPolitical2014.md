@@ -86,14 +86,14 @@ tags: #PartTwo
 > [!quote|#ffd400] Highlight
 > Samuel Morse
 >
->> Who is Samuel Morse?
+>> Who is [[Samuel Morse]]?
 >
 > [Page 72](zotero://open-pdf/library/items/979XDSYZ?page=72) [[2023-03-04#1:56 pm]]
 
 > [!quote|#ffd400] Highlight
 > Hubbard encouraged local entrepreneurs to establish their own telephone businesses, leasing Bell equipment in return for an annual commission.
 >
->> What type of business is this called?
+>> [What type of business is this called?]()
 >
 > [Page 77](zotero://open-pdf/library/items/979XDSYZ?page=77) [[2023-03-07#1:27 pm]]
 

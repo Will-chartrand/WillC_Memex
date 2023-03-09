@@ -19,28 +19,28 @@ tags: #PartTwo
 > [!quote|#ffd400] Highlight
 > Morse
 >
->> Who is Morse?
+>> [[Who is Morse?|Samuel Morse]]
 >
 > [Page 88](zotero://open-pdf/library/items/E4VVX87L?page=88) [[2023-03-07#1:34 pm]]
 
 > [!quote|#ffd400] Highlight
 > "The Atlantic is dried up, and we become in reality as well as in wish one country. The Atlantic Telegraph has half undone the Declaration of i776 , and has gone far to make us once again, in spite of ourselves, one people."
 >
->> What are the societal effects of having such a form of instantaneous communication between the countries? Do the societies become less dissimilar?
+>> [[What are the societal effects of having such a form of instantaneous communication between the countries? Do the societies become less dissimilar?|Effects of Instantaneous Communication]]
 >
 > [Page 97](zotero://open-pdf/library/items/E4VVX87L?page=97) [[2023-03-07#5:50 pm]]
 
 > [!quote|#ffd400] Highlight
 > The Great Eastern had proved something of a white elephant
 >
->> What is a white elephant?
+>> What is a [[white elephant|White Elephant]]?
 >
 > [Page 101](zotero://open-pdf/library/items/E4VVX87L?page=101) [[2023-03-08#10:55 am]]
 
 > [!quote|#ffd400] Highlight
 > Thomson went on to become Lord Kelvin, after whom the unit of temperature used by scientists is named.
 >
->> What else is Kelvin known for?
+>> What else is [[Kelvin]] known for?
 >
 > [Page 103](zotero://open-pdf/library/items/E4VVX87L?page=103) [[2023-03-08#11:01 am]]
 
