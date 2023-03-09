@@ -93,7 +93,7 @@ tags: #PartTwo
 > [!quote|#ffd400] Highlight
 > Hubbard encouraged local entrepreneurs to establish their own telephone businesses, leasing Bell equipment in return for an annual commission.
 >
->> [What type of business is this called?]()
+>> [[Leasing|What type of business is this called?]]
 >
 > [Page 77](zotero://open-pdf/library/items/979XDSYZ?page=77) [[2023-03-07#1:27 pm]]
 
