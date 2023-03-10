@@ -17,7 +17,7 @@ tags: #PartTwo
 > [!quote|#ffd400] Highlight
 > Messages sent through invisible airwaves inform, persuade and entertain
 >
->> [[What are these "invisible airwaves"|Electromagnetic Radiation]]?
+>> [[Electromagnetic Radiation|What are these "invisible airwaves"?]]?
 >
 > [Page 2](zotero://open-pdf/library/items/UI8IEHCR?page=2) [[2023-03-06#1:24 pm]]
 
