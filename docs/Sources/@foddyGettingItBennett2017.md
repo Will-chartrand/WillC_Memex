@@ -23,7 +23,7 @@ In a world where anything is only relevant for six seconds, persevering through 
 ---
 
 I've been playing Bennett Foddy's games since grade 5 on those little net books in the back of class. As a middle-schooler, Getting Over It's exploration into how our society has changed really spoke to me in a way that I had never experienced before. It had taught me to not give up, even when it becomes increasingly easy to. Hearing him talk about how information is fleeting, along with our attention, and at the same time presenting a mountain to climb made me set my mind on finishing the game. This was more or less out of spite - "My attention span is such that I can overcome difficult challenges that don't promise results at any stage of the process and I will prove it even if it's the last thing I do". So it took over eight hours to complete the game. 
-The mountain has very few safe points, so the player is constantly in danger of falling right back to the start; this happened very often, but the fact that this was part of the game really 
+The mountain has very few safe points, so the player is constantly in danger of falling right back to the start; this happened very often, but the fact that this failure was consciously added to the game kept me going for some reason. Getting to the end allowed me to prove to myself that I was able to keep going after repeated failure, and that's why it's still one of my favourite games to this day.
 
 --- 
 
