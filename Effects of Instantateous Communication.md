@@ -7,7 +7,7 @@ This concept is brought up throughout the transcript of the video-game [[@foddyG
 
 As a result of this "trash culture", our attention spans have gotten increasingly worse over time. Some examples of this are as follows:
 
-![[https://www.tiktok.com/@houseofhighlights/video/7193431505379642667]]
+![[ylF_pS9Q.mp4]]
 
 ![[fetchimage.webp|500]]
 ![[970.png|600]]
