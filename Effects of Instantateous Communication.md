@@ -1,0 +1,4 @@
+
+As information becomes more and more accessible and replicable, we as a society seem to value it less due to its abundance. 
+
+Not only can information be replicated more easily, but with the invention of the [[Public annotations from @standageVictorianInternetRemarkable1999|telegraph]] and the [[What were the advances in radio technologies in this time period|radio]], information became more easy to produce. One could argue that this is a good thing, and I tend to agree. However, the fact that information and media can be created with such ease means that one does not have to spend time planning out what they want to put out to the world. 
