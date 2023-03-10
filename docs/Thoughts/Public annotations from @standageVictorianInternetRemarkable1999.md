@@ -19,21 +19,21 @@ tags: #PartTwo
 > [!quote|#ffd400] Highlight
 > Morse
 >
->> [[Who is Morse?|Samuel Morse]]
+>> [[Samuel Morse|Who is Morse?]]
 >
 > [Page 88](zotero://open-pdf/library/items/E4VVX87L?page=88) [[2023-03-07#1:34 pm]]
 
 > [!quote|#ffd400] Highlight
 > "The Atlantic is dried up, and we become in reality as well as in wish one country. The Atlantic Telegraph has half undone the Declaration of i776 , and has gone far to make us once again, in spite of ourselves, one people."
 >
->> [[What are the societal effects of having such a form of instantaneous communication between the countries? Do the societies become less dissimilar?|Effects of Instantaneous Communication]]
+>> [[Effects of Instantateous Communication|What are the societal effects of having such a form of instantaneous communication between the countries? Do the societies become less dissimilar?]]
 >
 > [Page 97](zotero://open-pdf/library/items/E4VVX87L?page=97) [[2023-03-07#5:50 pm]]
 
 > [!quote|#ffd400] Highlight
 > The Great Eastern had proved something of a white elephant
 >
->> What is a [[white elephant|White Elephant]]?
+>> What is a [[White Elephant|white elephant]]?
 >
 > [Page 101](zotero://open-pdf/library/items/E4VVX87L?page=101) [[2023-03-08#10:55 am]]
 
