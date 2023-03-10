@@ -18,6 +18,7 @@ Part two:
 - [[@standageVictorianInternetRemarkable1999]]
 - [[@winstonMediaTechnologySociety]]
 - [[@foddyGettingItBennett2017]]
+
 ## Thoughts
 
 ### 'Technology'
