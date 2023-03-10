@@ -10,4 +10,6 @@ Part Two:
 - [[docs/Sources/@spikerDevelopmentRadio]]
 - [[docs/Sources/@coopersmithFaxedRiseFall2016]]
 - [[@winstonMediaTechnologySociety]]
-- [[@]]
+- [[docs/Sources/@macdougallPeopleNetworkPolitical2014]]
+- [[docs/Sources/@standageVictorianInternetRemarkable1999]]
+- [[@foddyGettingItBennett2017]]
