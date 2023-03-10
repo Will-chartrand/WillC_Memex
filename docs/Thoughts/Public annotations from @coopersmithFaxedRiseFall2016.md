@@ -40,7 +40,7 @@ tags: #PartTwo
 > [!quote|#ffd400] Highlight
 > Every area of facsimile advanced technically, responding to developments in supporting technologies like radio and to specific challenges in scanning, transmission, synchronization, recording, and even data reduction
 >
->> [[What were the advances in radio technologies in this time period?|Radio Technology Advances]]
+>> [[What were the advances in radio technologies in this time period|Radio Technology Advances]]
 >
 > [Page 5](zotero://open-pdf/library/items/IAEWGZ6U?page=5) [[2023-03-05#12:41 pm]]
 
