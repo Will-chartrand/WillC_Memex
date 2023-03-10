@@ -16,7 +16,8 @@ Part two:
 - [[@macdougallPeopleNetworkPolitical2014]]
 - [[@spikerDevelopmentRadio]]
 - [[@standageVictorianInternetRemarkable1999]]
-
+- [[@winstonMediaTechnologySociety]]
+- [[@foddyGettingItBennett2017]]
 ## Thoughts
 
 ### 'Technology'
